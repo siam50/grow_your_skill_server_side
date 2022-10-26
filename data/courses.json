@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "title": "DATA STRUCTURE",
+        "image": "https://img.freepik.com/free-photo/networking-concept-still-life_23-2149035772.jpg?w=2000",
+        "description": "Data structure and algorithms are two of the most important aspects of computer science. Data structures allow us to organize and store data, while algorithms allow us to process that data in a meaningful way. Learning data structure and algorithms will help you become a better programmer. You will be able to write code that is more efficient and more reliable. You will also be able to solve problems more quickly and more effectively."
+    },
+    {
+        "id": "02",
+        "title": "GRAPHIC DESIGN ",
+        "image": "https://img.freepik.com/free-vector/graphic-design-colorful-geometrical-lettering_52683-34588.jpg?w=2000",
+        "description": "Companies need the services of professional graphic designers to create effective marketing materials, such as brochures, business cards, flyers, banners, etc. Sometimes, resume design services are also needed. Graphic design involves designing and developing logos that can help build brand image.It also involves designing exclusive mobile apps and social media pages to promote and advertise the business. Graphic design is more than just beautification, it is more than just appearance, it has more benefits than making something look beautiful and attractive."
+    },
+    {
+        "id": "03",
+        "title": "MATHEMATICS",
+        "image": "https://www.imsa.miami.edu/_assets/images/nav/geometry-cyber-security.jpg",
+        "description": "Mathematics is a powerful tool for global understanding and communication that organizes our lives and prevents chaos.Mathematics helps us understand the world and provides an effective way of building mental discipline.Math encourages logical reasoning, critical thinking, creative thinking, abstract or spatial thinking, problem-solving ability, and even effective communication skills."
+    },
+    {
+        "id": "04",
+        "title": "DEGITAL MARKETING",
+        "image": "https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825__480.jpg",
+        "description": "Digital marketing allows you to reach your target audience online, in a variety of ways, on a variety of platforms. Digital marketing includes methods like social media marketing, content marketing, SEO, PPC, web design, and more.It includes strategies that allow you to target your exact audience online — allowing you to make more sales, drive more traffic to your website, and increase your revenue year over year."
+    },
+    {
+        "id": "05",
+        "title": "RESEARCH METHODOLOGY",
+        "image": "https://thumbs.dreamstime.com/b/research-development-abstract-7438143.jpg",
+        "description": "A research methodology gives research legitimacy and provides scientifically sound findings. It also provides a detailed plan that helps to keep researchers on track, making the process smooth, effective and manageable. A researcher's methodology allows the reader to understand the approach and methods used to reach conclusions."
+    },
+    {
+        "id": "06",
+        "title": "PROGRAMMING",
+        "image": "https://www.onlinecoursereport.com/wp-content/uploads/2020/02/shutterstock_1138257404-1024x683.jpg",
+        "description": "Computer programming is important today because so much of our world is automated. Humans need to be able to control the interaction between people and machines. Since computers and machines are able to do things so efficiently and accurately, we use computer programming to harness that computing power.If you are thinking about earning your computer programming degree, you will need to know about programming languages, classes, functions and commands. You will create applications, software or different programs. In addition, you may create programs that need to work on various operating systems such as iOS or Android. Those programs have different functions and classes, which means they rely on different programming languages."
+    }
+]
